@@ -1,8 +1,3 @@
 pull_and_merge test
+calm summer
 
-<<<<<<< HEAD
-calm
-
-=======
-summer
->>>>>>> 25a897583ffbb90b8162549ae22a74bdf998ea2c
